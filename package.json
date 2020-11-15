@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "fluent-ffmpeg": "^2.1.2",
-    "lame": "^1.2.4",
+    "@suldashi/lame": "^1.2.5",
     "progress-stream": "^2.0.0",
     "ytdl-core": "^2.1.5"
   }
