@@ -1,6 +1,6 @@
 const fs = require('fs')
 const progress = require('progress-stream')
-const lame = require('lame')
+const lame = require('@suldashi/lame')
 
 module.exports = {
   isMp3 (input) {
